@@ -1,0 +1,24 @@
+{
+	"insuranceStart": [
+		"Hello, mate. My team has been dispatched to recover your lost items and will update you shortly.",
+		"Comrade, my team is en route to locate your lost items. You should expect them at your doorstep today",
+		"Friend, I've dispatched my team to retrieve your lost items. We will be in touch with you soon."
+	],
+	"insuranceFound": [
+		"My guys have located your lost items and is on their way to you now. Please confirm that this is everything you were missing.",
+		"My team has successfully located your items and they should have arrived by now",
+		"Excellent news, partner! Your items have been located, and my team is currently delivering them to you. Be sure to offer them a shot of vodka as a token of appreciation for their efforts"
+	],
+	"insuranceFailed": [
+		"Pal, my team has returned without your items. Unfortunately, they were not found.",
+		"I hate to tell you this, but when my team got there, the place was empty. Hopefully, things go better next time.",
+		"Do not blame me for the news, but your belongings were missing. We will stay vigilant on the Flea Market."
+	],
+	"insuranceExpired": [
+		"Do not hold me responsible. I did inform you about your belongings. It is not on me that you left them behind. But no need to fret, my friend. They have found a new place to stay.",
+		"We could not keep your items in storage, so we had to break down what we could and repurpose it. Be sure to pick it up next time."
+	],
+	"insuranceComplete": [
+		"My team placed your items in your hideout. However, you might want to consider changing the door code to something other than 6969 in the future."
+	]
+}

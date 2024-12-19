@@ -1,0 +1,85 @@
+{
+  "ItemPresets": {
+    "67382c328c4cbbc0fd788100": {
+      "_changeWeaponName": false,
+      "_encyclopedia": "672e2e75b14ae1b5c91474b4",
+      "_id": "67382c328c4cbbc0fd788100",
+      "_items": [
+        {
+          "_id": "67382c1a8c4db0fbfb3b97a5",
+          "_tpl": "672e2e75b14ae1b5c91474b4"
+        },
+        {
+          "_id": "67382c713c87be63fb93a0c2",
+          "_tpl": "657f8ec5f4c82973640b234c",
+          "parentId": "67382c1a8c4db0fbfb3b97a5",
+          "slotId": "Helmet_top"
+        },
+        {
+          "_id": "67382c755df3fc621f13caf1",
+          "_tpl": "657f8f10f4c82973640b2350",
+          "parentId": "67382c1a8c4db0fbfb3b97a5",
+          "slotId": "Helmet_back"
+        }
+      ],
+      "_name": "Ops-Core FAST MT MODXII (M90) Standard",
+      "_parent": "67382c1a8c4db0fbfb3b97a5",
+      "_type": "Preset"
+    },
+    "67382cef7b55ed66238fd281": {
+      "_changeWeaponName": false,
+      "_encyclopedia": "672e2e7595d3b3be0daf9055",
+      "_id": "67382cef7b55ed66238fd281",
+      "_items": [
+        {
+          "_id": "67382cfc99cf040881f96bde",
+          "_tpl": "672e2e7595d3b3be0daf9055"
+        },
+        {
+          "_id": "67382d1a58268768bb42aa66",
+          "_tpl": "657f8ec5f4c82973640b234c",
+          "parentId": "67382cfc99cf040881f96bde",
+          "slotId": "Helmet_top"
+        },
+        {
+          "_id": "67382d1f8ccc7c2dab11f114",
+          "_tpl": "657f8f10f4c82973640b2350",
+          "parentId": "67382cfc99cf040881f96bde",
+          "slotId": "Helmet_back"
+        }
+      ],
+      "_name": "Ops-Core FAST MT MODXII (Black) Standard",
+      "_parent": "67382cfc99cf040881f96bde",
+      "_type": "Preset"
+    },
+    "67382d387c7f013c07be490c": {
+      "_changeWeaponName": false,
+      "_encyclopedia": "672e2e75b5b680c7ee6aa408",
+      "_id": "67382d387c7f013c07be490c",
+      "_items": [
+        {
+          "_id": "67382d4704799d95ab319eff",
+          "_tpl": "672e2e75b5b680c7ee6aa408"
+        },
+        {
+          "_id": "67382d4fbb6fe9daf0605732",
+          "_tpl": "657f8ec5f4c82973640b234c",
+          "parentId": "67382d4704799d95ab319eff",
+          "slotId": "Helmet_top"
+        },
+        {
+          "_id": "67382d556c6a6cdfa29fae07",
+          "_tpl": "657f8f10f4c82973640b2350",
+          "parentId": "67382d4704799d95ab319eff",
+          "slotId": "Helmet_back"
+        }
+      ],
+      "_name": "Ops-Core FAST MT MODXII (Multicam) Standard",
+      "_parent": "67382d4704799d95ab319eff",
+      "_type": "Preset"
+    }
+  },
+  "config": {
+    "Mastering": []
+  }
+}

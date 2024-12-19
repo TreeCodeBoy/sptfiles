@@ -1,0 +1,25 @@
+{
+    "name": "spt-recoil-standalone",
+    "version": "1.0.0",
+    "main": "src/mod.js",
+    "license": "MIT",
+    "author": "watsy",
+    "sptVersion": "3.10.*",
+    "scripts": {
+        "build": "rimraf dist && tsc && copyfiles -u 1 \"src/**/*.json\" dist/",
+        "lint": "eslint \"src/**/*.ts\""
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "^20.11.0",
+        "@typescript-eslint/eslint-plugin": "^6.18.1",
+        "@typescript-eslint/parser": "^6.18.1",
+        "copyfiles": "^2.4.1",
+        "eslint": "^8.56.0",
+        "rimraf": "^5.0.5",
+        "typescript": "^5.3.3"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}

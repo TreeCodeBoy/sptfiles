@@ -1,0 +1,130 @@
+{
+	"spawnsRezerv": [
+		{
+            "locationId": "(93.1053, 3.3972, -17.8457)",
+            "probability": 0.00548271211,
+            "template": {
+                "Id": "6650379222019b5d201b86e1",
+                "IsContainer": false,
+                "useGravity": true,
+                "randomRotation": false,
+                "Position": {
+                    "x": 93.1053,
+                    "y": 3.3972,
+                    "z": -17.8457
+                },
+                "Rotation": {
+                    "x": 0.0094,
+                    "y": 115.0182,
+                    "z": 89.9465
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "6650379651a307b46b5843fa",
+                "Items": [
+                    {
+						"_id": "66503799222398c8f0ffb499",
+						"_tpl": "668b9c37adf8dd87dcd87df9"
+					},
+					{
+						"_id": "3d98eada45977b1008bd60fe",
+						"_tpl": "668b9c27558936e864b4a504",
+						"parentId": "66503799222398c8f0ffb499",
+						"slotId": "mod_sight_front"
+					},
+					{
+						"_id": "0980a5e03a3b26542b77f091",
+						"_tpl": "668b9c1b327f6a93d2375db3",
+						"parentId": "66503799222398c8f0ffb499",
+						"slotId": "mod_sight_rear"
+					}
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "66503799222398c8f0ffb499"
+                    },
+                    "relativeProbability": 1
+                }
+            ]
+        },
+		{
+            "locationId": "(92.3145, 3.3779, -17.606)",
+            "probability": 0.0000815232,
+            "template": {
+                "Id": "665037a906a6915e8c1d6cf6",
+                "IsContainer": false,
+                "useGravity": true,
+                "randomRotation": false,
+                "Position": {
+                    "x": 92.3145,
+                    "y": 3.3779,
+                    "z": -17.606
+                },
+                "Rotation": {
+                    "x": -0.0003,
+                    "y": 105.6718,
+                    "z": 228.0094
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "665037adc139b4fe0a2f5a6c",
+                "Items": [
+                    {
+						"_id": "665037affc12bfe0662b362b",
+						"_tpl": "65f484909638b1821d56149e"
+					}
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "665037affc12bfe0662b362b"
+                    },
+                    "relativeProbability": 3
+                }
+            ]
+        },
+        {
+            "locationId": "(92.5457, 3.3778, -17.4563)",
+            "probability": 0.0000815232,
+            "template": {
+                "Id": "665037b61299defbc2bb7d50",
+                "IsContainer": false,
+                "useGravity": true,
+                "randomRotation": false,
+                "Position": {
+                    "x": 92.5457,
+                    "y": 3.3778,
+                    "z": -17.4563
+                },
+                "Rotation": {
+                    "x": 0.02,
+                    "y": 231.0191,
+                    "z": 174.213
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "665037b9a4193746f8b55fd8",
+                "Items": [
+                    {
+						"_id": "665037bc6437b3e76401fb33",
+						"_tpl": "65f484909638b1821d56149e"
+					}
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "665037bc6437b3e76401fb33"
+                    },
+                    "relativeProbability": 3
+                }
+            ]
+        }
+	]
+}
